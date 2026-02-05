@@ -1,10 +1,10 @@
 name: responsive_display
 description: A production-ready, zero-rework Flutter package for responsive design covering layout, proportional scaling, and constraints.
 version: 1.0.0
-homepage: https://github.com/example/responsive_display
-repository: https://github.com/example/responsive_display
-issue_tracker: https://github.com/example/responsive_display/issues
-documentation: https://github.com/example/responsive_display/blob/main/README.md
+homepage: https://github.com/AflahShadilk/responsive_display
+repository: https://github.com/AflahShadilk/responsive_display
+issue_tracker: https://github.com/AflahShadilk/responsive_display/issues
+documentation: https://github.com/AflahShadilk/responsive_display/blob/main/README.md
 
 environment:
   sdk: '>=3.0.0 <4.0.0'
