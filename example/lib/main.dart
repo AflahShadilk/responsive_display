@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:responsive_display/responsiveDisplay.dart';
+import 'package:responsive_display/responsive_display.dart';
 
 void main() {
   runApp(const MyApp());
