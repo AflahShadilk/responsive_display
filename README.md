@@ -1,4 +1,5 @@
 # responsiveDisplay
+[![pub package](https://img.shields.io/pub/v/responsive_display.svg)](https://pub.dev/packages/responsive_display)
 
 A production-ready, zero-rework Flutter package for responsive design covering layout decisions, proportional scaling, and constraint-based responsiveness.
 
